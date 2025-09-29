@@ -5,7 +5,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-38bdf8?logo=tailwind-css&logoColor=38bdf8)](https://tailwindcss.com/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com/)
 
-A sleek, **modern dashboard UI** built with **Next.js, React, TailwindCSS, and ShadCN UI**, featuring charts, tables, statistics, and a responsive sidebar layout.  
+A sleek, **modern dashboard UI** built with **Next.js, React, TailwindCSS, and ShadCN UI**, featuring charts, tables, statistics, and a responsive sidebar layout.
 
 🔗 **Live Demo:** [modern-dashbaord.vercel.app](https://modern-dashbaord.vercel.app/)
 
@@ -13,33 +13,35 @@ A sleek, **modern dashboard UI** built with **Next.js, React, TailwindCSS, and S
 
 ## ✨ Features
 
-- 📱 **Responsive Layout** — works seamlessly on desktop, tablet, and mobile  
-- 🎨 **ShadCN UI Components** — clean and reusable UI building blocks  
-- 📊 **Interactive Charts** — visualize data (revenues, usage trends, etc.)  
-- 📋 **Data Tables & Lists** — recent transactions, activities, to-do list  
-- 🌙 **Theming** — light & dark mode support  
-- 🧩 **Modular Components** — sidebar, header, cards, widgets  
-- ⚡ **Deployed with Vercel** — easy CI/CD from GitHub  
+- 📱 **Responsive Layout** — works seamlessly on desktop, tablet, and mobile
+- 🎨 **ShadCN UI Components** — clean and reusable UI building blocks
+- 📊 **Interactive Charts** — visualize data (revenues, usage trends, etc.)
+- 📋 **Data Tables & Lists** — recent transactions, activities, to-do list
+- 🌙 **Theming** — light & dark mode support
+- 🧩 **Modular Components** — sidebar, header, cards, widgets
+- ⚡ **Deployed with Vercel** — easy CI/CD from GitHub
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Framework**: [Next.js](https://nextjs.org/)  
-- **UI**: [ShadCN UI](https://ui.shadcn.com/) + [Tailwind CSS](https://tailwindcss.com/)  
-- **Charts**: (e.g. [Recharts](https://recharts.org/) / [ApexCharts](https://apexcharts.com/))  
-- **Icons**: [Lucide React](https://lucide.dev/)  
-- **Deployment**: [Vercel](https://vercel.com/)  
+- **Framework**: [Next.js](https://nextjs.org/)
+- **UI**: [ShadCN UI](https://ui.shadcn.com/) + [Tailwind CSS](https://tailwindcss.com/)
+- **Charts**: (e.g. [Recharts](https://recharts.org/) / [ApexCharts](https://apexcharts.com/))
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Deployment**: [Vercel](https://vercel.com/)
 
 ---
 
 ## 📷 Screenshots
 
-### Dashboard Preview  
-![Dashboard Preview](./screenshots/dashboard-preview.png)  
+### Dashboard Preview
 
-### Dark Mode  
-![Dark Mode Preview](./screenshots/dashboard-dark.png)  
+![Dashboard Preview](./Images/dashboard-shot.png)
+
+### Dark Mode
+
+![Dark Mode Preview](./Images/shad-dashboard.jpeg)
 
 ---
 
@@ -47,8 +49,8 @@ A sleek, **modern dashboard UI** built with **Next.js, React, TailwindCSS, and S
 
 ### 📌 Prerequisites
 
-- [Node.js](https://nodejs.org/) (>= 16.x recommended)  
-- npm or yarn  
+- [Node.js](https://nodejs.org/) (>= 16.x recommended)
+- npm or yarn
 
 ### ⚙️ Installation
 
@@ -61,3 +63,4 @@ cd modern-dashboard
 npm install
 # or
 yarn install
+```
